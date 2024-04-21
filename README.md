@@ -14,3 +14,9 @@ Các Khối
 - Khối timer: đếm thời gian​
 - Khối highway_controller điều khiển đèn hướng ưu tiên​
 - Khối countryroad_controller: điều khiển đèn hướng không ưu tiên​
+
+### Mô hình mạch dãy
+![Screenshot 2024-04-21 185920](https://github.com/HoangHuyHust12/Week-8-Thi-t-k-s-/assets/142207226/125af6b9-edd5-49c7-90f2-a309b211bb50)
+
+### Bộ điều khiển hướng ưu tiên
+![Screenshot 2024-04-21 191907](https://github.com/HoangHuyHust12/Week-8-Thi-t-k-s-/assets/142207226/9951f9db-1146-482c-913c-525eeffd53d8)
