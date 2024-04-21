@@ -1,1 +1,1 @@
-
+https://husteduvn.sharepoint.com/:p:/r/sites/EDABK-HDLComputerArchitecture/_layouts/15/Doc.aspx?sourcedoc=%7BF6F80A7A-D772-4D6A-AA9B-43B81F61F25A%7D&file=%25u0111%25u00e8n%20giao%20th%25u00f4ng.pptx&action=edit&mobileredirect=true
